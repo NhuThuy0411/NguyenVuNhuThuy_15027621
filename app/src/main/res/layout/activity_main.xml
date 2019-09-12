@@ -83,6 +83,13 @@
         android:layout_weight="1"
         android:weightSum="2">
         <Button
+            android:id="@+id/btn_thoat"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Thoát"
+            android:textSize="20dp"/>
+        <Button
             android:id="@+id/btn_dangNhap"
             android:layout_width="0dp"
             android:layout_height="match_parent"
